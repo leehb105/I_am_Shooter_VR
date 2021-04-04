@@ -32,6 +32,6 @@ ImshooterVR
 
 ![vrimshooter-vidio](https://www.youtube.com/embed/q-4oN24EmWg)    
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=q-4oN24EmWg" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+
+<iframe src="https://www.youtube.com/watch?v=q-4oN24EmWg" frameborder="0" allowfullscreen="true"> </iframe>
+
