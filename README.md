@@ -32,4 +32,4 @@ ImshooterVR
 
 
 ### 영상
-<img src="https://github.com/leehb105/ImshooterVR/blob/main/Assets/GitImages/pic.png" width="50%" height="40%" title="px(픽셀) 크기 설정" alt="image"></img>(https://www.youtube.com/embed/q-4oN24EmWg)  
+[![Video](https://github.com/leehb105/ImshooterVR/blob/main/Assets/GitImages/pic.png)](https://www.youtube.com/embed/q-4oN24EmWg)
