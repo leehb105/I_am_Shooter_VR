@@ -31,10 +31,5 @@ ImshooterVR
 - 구현된 점 : 디자인패턴(Singleton), DB(<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>)Acess   
 
 
-
-
-
 ### 영상
-
-<iframe width="1010" height="568" src="https://www.youtube.com/embed/q-4oN24EmWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<img src="https://github.com/leehb105/ImshooterVR/blob/main/Assets/GitImages/pic.png" width="50%" height="40%" title="px(픽셀) 크기 설정" alt="image"></img>(https://www.youtube.com/embed/q-4oN24EmWg)  
